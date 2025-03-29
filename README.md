@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @sourabh003
-- 👀 I’m interested in Almost Everything... Full Stack Web Development, Java Development and Android Development
-- 🌱 I’m currently learning React JS along with Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on any Interesting project
-- 📫 How to reach me : Feel free to drop a mail at csourabh003@gmail.com
+👋 Hi, I'm Sourabh!
+🚀 Software Engineer | React.js | Next.js | Node.js | TypeScript
+
+Passionate about building scalable web applications and optimizing performance. I specialize in React, Next.js, Node.js, and Prisma, with a strong focus on frontend architecture, API development, and problem-solving.
+
+🔹 Tech Stack: React.js, Next.js, TypeScript, Node.js, Prisma, SQL, MongoDB
+🔹 Interests: System Design, Scalable Frontend Architectures, DSA
+🔹 Projects: E-commerce, Task Management, Email Campaign Automation
+
+💡 Always learning, solving problems, and building cool stuff!
